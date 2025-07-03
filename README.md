@@ -7,7 +7,8 @@ Simples, responsivo e feito com muito cuidado nos detalhes visuais!
 
 ## Acesse o site publicado
 
-https://natalialeal1.github.io/barbearia-alura/
+Menu: https://natalialeal1.github.io/barbearia-alura/
+Produtos: https://natalialeal1.github.io/barbearia-alura/produtos.html
 
 O site apresenta:
 
