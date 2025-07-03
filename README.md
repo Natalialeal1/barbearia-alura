@@ -3,7 +3,7 @@
 Um site institucional fictício desenvolvido como exercício de HTML e CSS, apresentando a Barbearia Alura e seus produtos.  
 Simples, responsivo e feito com muito cuidado nos detalhes visuais!
 
-> 🚨 Os arquivos estão na branch `master`. Se o repositório parecer vazio, selecione `master` no menu superior do GitHub.
+🚨 Os arquivos estão na branch master. Se o repositório parecer vazio, selecione master no menu superior do GitHub.
 
 ## Acesse o site publicado
 
