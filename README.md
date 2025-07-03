@@ -5,15 +5,12 @@ Simples, responsivo e feito com muito cuidado nos detalhes visuais!
 
 > 🚨 Os arquivos estão na branch `master`. Se o repositório parecer vazio, selecione `master` no menu superior do GitHub.
 
----
-
 ## Acesse o site publicado
 
 
 
----
 
-## ✂Sobre o projeto
+## Sobre o projeto
 
 O site apresenta:
 
